@@ -1,0 +1,1 @@
+module.exports.apiURL = https://opentdb.com/api.php?amount=10;
